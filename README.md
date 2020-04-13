@@ -4,8 +4,8 @@ This is a mirror from 3D Nexus foro for improve revision history and changes for
 
 ## Instructions
 
-- [] Backup your settings
-- [] Copy the files to their respective folders
+- [X] Backup your settings
+- [X] Copy the files to their respective folders
 
 ```bash
 /resources/definitions
@@ -14,7 +14,11 @@ This is a mirror from 3D Nexus foro for improve revision history and changes for
 /resources/variants
 ```
 
-- [] import the profile base
+- [X] import the profile base
 
 
 The base profile, which is `3DN_Artillery_Genius_Base.curaprofile` set for 0.16 Layer Height and tested with Cura 4.21.
+
+## Credits
+
+[3D-Nexus foro](https://3d-nexus.com/resources/file-archives/category/8-artillery-evnovo)
